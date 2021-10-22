@@ -4,6 +4,7 @@
   <li>I'm a software developer from México 🇲🇽</li>
   <li>TECNM student</li>
   <li>You can reach me <a href="https://twitter.com/NotLuisG">here</a></li>
+  <li>I make videos on <a href="https://www.youtube.com/channel/UCyTpIDEK5uNTy50gb3O_jwQ" target="_blank">youtube</li>
 </ul>
 
 
